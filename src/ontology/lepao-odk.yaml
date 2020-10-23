@@ -1,0 +1,11 @@
+
+id: lepao
+title: lepidoptera anatomy ontology
+github_org: luis-gonzalez-m
+repo: lepao
+import_group:
+  products:
+    - id: ro
+    - id: bfo
+    - id: pato
+    - id: hao
