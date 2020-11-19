@@ -65,9 +65,88 @@ Declaration(Class(<http://purl.obolibrary.org/obo/LEPAO_00000044>))
 Declaration(Class(<http://purl.obolibrary.org/obo/LEPAO_00000045>))
 Declaration(Class(<http://purl.obolibrary.org/obo/LEPAO_00000046>))
 Declaration(Class(<http://purl.obolibrary.org/obo/LEPAO_00000047>))
+Declaration(Class(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000052>))
+Declaration(Class(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000053>))
+Declaration(Class(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000054>))
+Declaration(Class(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000055>))
+Declaration(Class(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000056>))
+Declaration(Class(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000057>))
+Declaration(Class(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000058>))
+Declaration(Class(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000059>))
+Declaration(Class(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000060>))
+Declaration(Class(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000061>))
+Declaration(Class(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000062>))
+Declaration(Class(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000063>))
+Declaration(Class(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000064>))
+Declaration(Class(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000065>))
+Declaration(Class(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000067>))
+Declaration(Class(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000068>))
+Declaration(Class(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000069>))
+Declaration(Class(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000070>))
+Declaration(Class(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000071>))
+Declaration(Class(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000072>))
+Declaration(Class(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000073>))
+Declaration(Class(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000074>))
+Declaration(Class(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000075>))
+Declaration(Class(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000076>))
+Declaration(Class(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000077>))
+Declaration(Class(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000078>))
+Declaration(Class(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000079>))
+Declaration(Class(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000080>))
+Declaration(Class(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000081>))
+Declaration(Class(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000082>))
+Declaration(Class(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000083>))
+Declaration(Class(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000084>))
+Declaration(Class(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000085>))
+Declaration(Class(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000086>))
+Declaration(Class(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000087>))
+Declaration(Class(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000088>))
+Declaration(Class(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000089>))
+Declaration(Class(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000090>))
+Declaration(Class(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000091>))
+Declaration(Class(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000092>))
+Declaration(Class(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000093>))
+Declaration(Class(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000094>))
+Declaration(Class(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000095>))
+Declaration(Class(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000096>))
+Declaration(Class(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000097>))
+Declaration(Class(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000099>))
+Declaration(Class(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000100>))
+Declaration(Class(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000101>))
+Declaration(Class(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000102>))
+Declaration(Class(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000103>))
+Declaration(Class(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000104>))
+Declaration(Class(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000105>))
+Declaration(Class(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000106>))
+Declaration(Class(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000107>))
+Declaration(Class(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000108>))
+Declaration(Class(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000109>))
+Declaration(Class(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000110>))
+Declaration(Class(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000111>))
+Declaration(Class(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000112>))
+Declaration(Class(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000113>))
+Declaration(Class(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000115>))
+Declaration(Class(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000116>))
+Declaration(Class(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000117>))
+Declaration(Class(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000118>))
+Declaration(Class(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000119>))
+Declaration(Class(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000120>))
+Declaration(Class(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000121>))
+Declaration(Class(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000122>))
+Declaration(Class(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000123>))
+Declaration(Class(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000124>))
+Declaration(Class(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000125>))
+Declaration(Class(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000126>))
+Declaration(Class(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000127>))
+Declaration(Class(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000128>))
+Declaration(Class(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000129>))
+Declaration(Class(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000130>))
+Declaration(ObjectProperty(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000098>))
+Declaration(ObjectProperty(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000114>))
 Declaration(AnnotationProperty(<http://purl.obolibrary.org/obo/LEPAO153544fa_fa7f_48a8_bf11_d5b01ff4cbad>))
 Declaration(AnnotationProperty(<http://purl.obolibrary.org/obo/LEPAO231018e2_f15d_4e76_86cc_fe2413cd936c>))
 Declaration(AnnotationProperty(<http://purl.obolibrary.org/obo/LEPAOdf6a8147_3057_425d_b54f_a4564743f674>))
+Declaration(AnnotationProperty(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000066>))
 Declaration(AnnotationProperty(dce:description))
 Declaration(AnnotationProperty(dce:title))
 Declaration(AnnotationProperty(dcterms:license))
@@ -86,6 +165,23 @@ AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LEPAO231018e2_f15
 # Annotation Property: <http://purl.obolibrary.org/obo/LEPAOdf6a8147_3057_425d_b54f_a4564743f674> (has_exact_synonym)
 
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LEPAOdf6a8147_3057_425d_b54f_a4564743f674> "has_exact_synonym"@en)
+
+# Annotation Property: <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000066> (database_cross_reference)
+
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000066> "database_cross_reference"@en)
+
+
+############################
+#   Object Properties
+############################
+
+# Object Property: <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000098> (part_of)
+
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000098> "part_of"@en)
+
+# Object Property: <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000114> (is_a)
+
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000114> "is_a"@en)
 
 
 
@@ -344,6 +440,429 @@ SubClassOf(<http://purl.obolibrary.org/obo/LEPAO_00000046> <http://purl.obolibra
 
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LEPAO_00000047> "cervix"@en)
 SubClassOf(<http://purl.obolibrary.org/obo/LEPAO_00000047> <http://purl.obolibrary.org/obo/LEPAO_00000004>)
+
+# Class: <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000052> (proximal prelabium)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/LEPAOdf6a8147_3057_425d_b54f_a4564743f674> <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000052> "mentum")
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000052> "proximal prelabium"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000052> <http://purl.obolibrary.org/obo/LEPAO_00000007>)
+
+# Class: <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000053> (distal prelabium)
+
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000053> "distal prelabium"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000053> <http://purl.obolibrary.org/obo/LEPAO_00000007>)
+
+# Class: <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000054> (postlabium)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/LEPAOdf6a8147_3057_425d_b54f_a4564743f674> <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000054> "submentum")
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000054> "postlabium"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000054> <http://purl.obolibrary.org/obo/LEPAO_00000007>)
+
+# Class: <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000055> (clypeus)
+
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000055> "clypeus"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000055> <http://purl.obolibrary.org/obo/LEPAO_00000007>)
+
+# Class: <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000056> (labrum)
+
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000056> "labrum"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000056> <http://purl.obolibrary.org/obo/LEPAO_00000007>)
+
+# Class: <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000057> (frontoclypeus)
+
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000057> "frontoclypeus"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000057> <http://purl.obolibrary.org/obo/LEPAO_00000007>)
+
+# Class: <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000058> (fronto-labral muscle)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000066> <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000058> "http://doi.org:10.1134/S0013873811050010")
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000058> "fronto-labral muscle"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000058> <http://purl.obolibrary.org/obo/LEPAO_00000006>)
+
+# Class: <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000059> (clypeo-epipharyngeal muscle)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000066> <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000059> "http://doi.org:10.1134/S0013873811050010")
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000059> "clypeo-epipharyngeal muscle"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000059> <http://purl.obolibrary.org/obo/LEPAO_00000006>)
+
+# Class: <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000060> (labro-epipharyngeal muscle)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000066> <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000060> "http://doi.org:10.1134/S0013873811050010")
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000060> "labro-epipharyngeal muscle"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000060> <http://purl.obolibrary.org/obo/LEPAO_00000006>)
+
+# Class: <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000061> (mandibular muscle)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000066> <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000061> "http://doi.org:10.1134/S0013873811050010")
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000061> "mandibular muscle"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000061> <http://purl.obolibrary.org/obo/LEPAO_00000006>)
+
+# Class: <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000062> (maxillary muscle)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000066> <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000062> "http://doi.org:10.1134/S0013873811050010")
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000062> "maxillary muscle"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000062> <http://purl.obolibrary.org/obo/LEPAO_00000006>)
+
+# Class: <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000063> (labial muscle)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000066> <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000063> "http://doi.org:10.1134/S0013873811050010")
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000063> "labial muscle"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000063> <http://purl.obolibrary.org/obo/LEPAO_00000006>)
+
+# Class: <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000064> (cranio-pharyngeal muscle)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000066> <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000064> "http://doi.org:10.1134/S0013873811050010")
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000064> "cranio-pharyngeal muscle"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000064> <http://purl.obolibrary.org/obo/LEPAO_00000006>)
+
+# Class: <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000065> (antennal muscle)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000066> <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000065> "http://doi.org:10.1134/S0013873811050010")
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000065> "antennal muscle"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000065> <http://purl.obolibrary.org/obo/LEPAO_00000006>)
+
+# Class: <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000067> (anterior cervical muscle)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000066> <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000067> "http://doi.org:10.1134/S0013873811050010")
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000067> "anterior cervical muscle"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000067> <http://purl.obolibrary.org/obo/LEPAO_00000006>)
+
+# Class: <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000068> (posterior cervical muscle)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000066> <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000068> "http://doi.org:10.1134/S0013873811050010")
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000068> "posterior cervical muscle"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000068> <http://purl.obolibrary.org/obo/LEPAO_00000006>)
+
+# Class: <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000069> (intersegmental cervical muscle)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000066> <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000069> "http://doi.org:10.1134/S0013873811050010")
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000069> "intersegmental cervical muscle"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000069> <http://purl.obolibrary.org/obo/LEPAO_00000006>)
+
+# Class: <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000070> (appendage)
+
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000070> "appendage"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000070> <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000095>)
+
+# Class: <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000071> (multicellular anatomical structure)
+
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000071> "multicellular anatomical structure"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000071> <http://purl.obolibrary.org/obo/LEPAO_00000002>)
+
+# Class: <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000072> (multicellular organism)
+
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000072> "multicellular organism"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000072> <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000071>)
+
+# Class: <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000073> (larva)
+
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000073> "larva"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000073> <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000072>)
+
+# Class: <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000074> (lateral fronto-labral muscle)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000066> <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000074> "http://doi.org:10.1111/j.1463-6395.2005.00198.x")
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000074> "lateral fronto-labral muscle"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000074> <http://purl.obolibrary.org/obo/LEPAO_00000006>)
+
+# Class: <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000075> (labral compressor muscle)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000066> <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000075> "http://doi:10.1111/j.1463-6395.2005.00198.x")
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000075> "labral compressor muscle"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000075> <http://purl.obolibrary.org/obo/LEPAO_00000006>)
+
+# Class: <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000076> (mandibular abductor muscle)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000066> <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000076> "http://doi:10.1111/j.1463-6395.2005.00198.x")
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000076> "mandibular abductor muscle"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000076> <http://purl.obolibrary.org/obo/LEPAO_00000006>)
+
+# Class: <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000077> (cranial mandibular adductor)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000066> <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000077> "http://doi:10.1111/j.1463-6395.2005.00198.x")
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000077> "cranial mandibular adductor"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000077> <http://purl.obolibrary.org/obo/LEPAO_00000006>)
+
+# Class: <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000078> (tentorial mandibular adductor)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000066> <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000078> "http://doi:10.1111/j.1463-6395.2005.00198.x")
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000078> "tentorial mandibular adductor"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000078> <http://purl.obolibrary.org/obo/LEPAO_00000006>)
+
+# Class: <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000079> (posterior tentorio-cardinal muscle)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000066> <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000079> "http://doi:10.1111/j.1463-6395.2005.00198.x")
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000079> "posterior tentorio-cardinal muscle"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000079> <http://purl.obolibrary.org/obo/LEPAO_00000006>)
+
+# Class: <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000080> (anterior tentorio-cardinal muscle)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000066> <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000080> "http://doi:10.1111/j.1463-6395.2005.00198.x")
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000080> "anterior tentorio-cardinal muscle"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000080> <http://purl.obolibrary.org/obo/LEPAO_00000006>)
+
+# Class: <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000081> (anterior tentorio-stipital muscle)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000066> <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000081> "http://doi:10.1111/j.1463-6395.2005.00198.x")
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000081> "anterior tentorio-stipital muscle"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000081> <http://purl.obolibrary.org/obo/LEPAO_00000006>)
+
+# Class: <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000082> (posterior tentorio-stipital muscle)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000066> <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000082> "http://doi:10.1111/j.1463-6395.2005.00198.x")
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000082> "posterior tentorio-stipital muscle"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000082> <http://purl.obolibrary.org/obo/LEPAO_00000006>)
+
+# Class: <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000083> (ventral cibarial dilator muscle)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000066> <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000083> "http://doi:10.1111/j.1463-6395.2005.00198.x")
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000083> "ventral cibarial dilator muscle"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000083> <http://purl.obolibrary.org/obo/LEPAO_00000006>)
+
+# Class: <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000084> (dorsal salivarium dilators muscle)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000066> <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000084> "http://doi:10.1111/j.1463-6395.2005.00198.x")
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000084> "dorsal salivarium dilators muscle"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000084> <http://purl.obolibrary.org/obo/LEPAO_00000006>)
+
+# Class: <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000085> (ventral salivarium dilator muscle)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000066> <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000085> "http://doi:10.1111/j.1463-6395.2005.00198.x")
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000085> "ventral salivarium dilator muscle"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000085> <http://purl.obolibrary.org/obo/LEPAO_00000006>)
+
+# Class: <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000086> (precerebral dorsal pharyngeal dilator muscle)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000066> <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000086> "http://doi:10.1111/j.1463-6395.2005.00198.x")
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000086> "precerebral dorsal pharyngeal dilator muscle"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000086> <http://purl.obolibrary.org/obo/LEPAO_00000006>)
+
+# Class: <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000087> (mouth angle retractor muscle)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000066> <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000087> "http://doi:10.1111/j.1463-6395.2005.00198.x")
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000087> "mouth angle retractor muscle"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000087> <http://purl.obolibrary.org/obo/LEPAO_00000006>)
+
+# Class: <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000088> (mouth angle suspensor muscle)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000066> <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000088> "http://doi:10.1111/j.1463-6395.2005.00198.x")
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000088> "mouth angle suspensor muscle"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000088> <http://purl.obolibrary.org/obo/LEPAO_00000006>)
+
+# Class: <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000089> (precerebral dorsal pharyngeal dilator muscle)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000066> <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000089> "http://doi:10.1111/j.1463-6395.2005.00198.x")
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000089> "precerebral dorsal pharyngeal dilator muscle"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000089> <http://purl.obolibrary.org/obo/LEPAO_00000006>)
+
+# Class: <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000090> (postcerebral dorsal pharyngeal dilator muscle)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000066> <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000090> "http://doi:10.1111/j.1463-6395.2005.00198.x")
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000090> "postcerebral dorsal pharyngeal dilator muscle"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000090> <http://purl.obolibrary.org/obo/LEPAO_00000006>)
+
+# Class: <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000091> (precerebral ventral pharyngeal dilator muscle)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000066> <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000091> "http://doi:10.1111/j.1463-6395.2005.00198.x")
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000091> "precerebral ventral pharyngeal dilator muscle"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000091> <http://purl.obolibrary.org/obo/LEPAO_00000006>)
+
+# Class: <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000092> (oesophageal circular muscle)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000066> <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000092> "http://doi:10.1111/j.1463-6395.2005.00198.x")
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000092> "oesophageal circular muscle"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000092> <http://purl.obolibrary.org/obo/LEPAO_00000006>)
+
+# Class: <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000093> (pharyngeal circular muscle)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000066> <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000093> "http://doi:10.1111/j.1463-6395.2005.00198.x")
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000093> "pharyngeal circular muscle"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000093> <http://purl.obolibrary.org/obo/LEPAO_00000006>)
+
+# Class: <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000094> (phallus)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/LEPAOdf6a8147_3057_425d_b54f_a4564743f674> <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000094> "aedeagus")
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000094> "phallus"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000094> <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000070>)
+SubClassOf(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000094> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000098> <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000097>))
+
+# Class: <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000095> (anatomical structure)
+
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000095> "anatomical structure"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000095> <http://purl.obolibrary.org/obo/LEPAO_00000002>)
+
+# Class: <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000096> (anatomical system)
+
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000096> "anatomical system"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000096> <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000095>)
+
+# Class: <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000097> (genitalia)
+
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000097> "genitalia"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000097> <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000096>)
+
+# Class: <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000099> (valve)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/LEPAOdf6a8147_3057_425d_b54f_a4564743f674> <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000099> "harpe")
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000099> "valve"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000099> <http://purl.obolibrary.org/obo/LEPAO_00000007>)
+SubClassOf(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000099> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000098> <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000097>))
+
+# Class: <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000100> (vinculum)
+
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000100> "vinculum"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000100> <http://purl.obolibrary.org/obo/LEPAO_00000007>)
+SubClassOf(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000100> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000098> <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000097>))
+
+# Class: <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000101> (juxta)
+
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000101> "juxta"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000101> <http://purl.obolibrary.org/obo/LEPAO_00000007>)
+SubClassOf(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000101> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000098> <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000097>))
+
+# Class: <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000102> (gnathos)
+
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000102> "gnathos"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000102> <http://purl.obolibrary.org/obo/LEPAO_00000007>)
+SubClassOf(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000102> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000098> <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000097>))
+
+# Class: <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000103> (transtilla)
+
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000103> "transtilla"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000103> <http://purl.obolibrary.org/obo/LEPAO_00000007>)
+SubClassOf(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000103> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000098> <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000097>))
+
+# Class: <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000104> (tegumen)
+
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000104> "tegumen"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000104> <http://purl.obolibrary.org/obo/LEPAO_00000007>)
+SubClassOf(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000104> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000098> <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000097>))
+
+# Class: <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000105> (leg)
+
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000105> "leg"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000105> <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000070>)
+
+# Class: <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000106> (wing)
+
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000106> "wing"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000106> <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000070>)
+
+# Class: <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000107> (antenna)
+
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000107> "antenna"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000107> <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000070>)
+
+# Class: <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000108> (mandible)
+
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000108> "mandible"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000108> <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000070>)
+
+# Class: <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000109> (maxilla)
+
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000109> "maxilla"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000109> <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000070>)
+
+# Class: <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000110> (fore wing)
+
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000110> "fore wing"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000110> <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000106>)
+
+# Class: <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000111> (hind wing)
+
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000111> "hind wing"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000111> <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000106>)
+
+# Class: <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000112> (process)
+
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000112> "process"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000112> <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000095>)
+
+# Class: <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000113> (uncus)
+
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000113> "uncus"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000113> <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000112>)
+SubClassOf(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000113> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000114> <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000112>))
+
+# Class: <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000115> (tubercle)
+
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000115> "tubercle"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000115> <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000095>)
+
+# Class: <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000116> (clasper)
+
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000116> "clasper"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000116> <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000115>)
+
+# Class: <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000117> (pollex)
+
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000117> "pollex"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000117> <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000115>)
+
+# Class: <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000118> (anatomical conduit)
+
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000118> "anatomical conduit"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000118> <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000095>)
+
+# Class: <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000119> (venation)
+
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000119> "venation"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000119> <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000096>)
+
+# Class: <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000120> (wing vein)
+
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000120> "wing vein"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000120> <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000119>)
+
+# Class: <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000121> (fore wing vein)
+
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000121> "fore wing vein"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000121> <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000120>)
+
+# Class: <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000122> (hind wing vein)
+
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000122> "hind wing vein"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000122> <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000120>)
+
+# Class: <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000123> (radial vein)
+
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000123> "radial vein"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000123> <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000118>)
+
+# Class: <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000124> (anal vein)
+
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000124> "anal vein"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000124> <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000118>)
+
+# Class: <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000125> (medial vein)
+
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000125> "medial vein"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000125> <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000118>)
+
+# Class: <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000126> (cubital vein)
+
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000126> "cubital vein"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000126> <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000118>)
+
+# Class: <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000127> (costa)
+
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000127> "costa"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000127> <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000118>)
+
+# Class: <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000128> (subcosta)
+
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000128> "subcosta"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000128> <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000118>)
+
+# Class: <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000129> (area)
+
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000129> "area"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000129> <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000095>)
+
+# Class: <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000130> (wing cell)
+
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000130> "wing cell"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000130> <http://purl.obolibrary.org/obo/LEPAO:LEPAO_0000129>)
 
 
 )
